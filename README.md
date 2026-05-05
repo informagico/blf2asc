@@ -4,7 +4,7 @@ This simple script converts `.blf` (CANalyzer/CANoe) files into `.asc` (ASCII).
 
 ## Installation
 
-```$ pip install requirements.txt```
+```$ pip install -r requirements.txt```
 
 ## GUI
 
